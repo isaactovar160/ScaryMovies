@@ -1,1 +1,1 @@
-import "index.html";
+window.location.href = "index.html";
