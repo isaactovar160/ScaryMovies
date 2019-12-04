@@ -1,10 +1,11 @@
 {
   "name": "movies",
   "version": "1.0.0",
-  "description": "Movies ",
+  "description": "My Favorite Movies",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "repository": {
     "type": "git",
