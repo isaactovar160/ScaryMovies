@@ -1,0 +1,19 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Movies ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaactovar160/ScaryMovies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaactovar160/ScaryMovies/issues"
+  },
+  "homepage": "https://github.com/isaactovar160/ScaryMovies#readme"
+}
